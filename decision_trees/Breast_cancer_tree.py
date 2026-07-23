@@ -25,3 +25,5 @@ a = plot_tree(clf,feature_names = breast_cancer.feature_names,
                  fontsize = 14)
 
 plt.show()
+
+
